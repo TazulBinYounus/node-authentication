@@ -15,7 +15,7 @@ git clone  git@github.com:TazulBinYounus/node-authentication.git
 ```
 - Install dependencies
 ```
-cd <project_name>
+cd node-authentication
 npm install
 ```
 - Run the project
