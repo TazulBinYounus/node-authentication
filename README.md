@@ -25,10 +25,14 @@ npm install
 cp .env.sample .env
 ```
 
+- install nodemon globally
+```
+ npm install nodemon -g
+ ```
 
 - Run the project
 ```
-nodemon
+nodemon start
 ```
   Navigate to `http://localhost:5000`
 
